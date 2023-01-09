@@ -15,7 +15,7 @@ For running the project, you will need to have two computers one for server and 
 
 - Creating the server:
     If you are using Python 3.7.6, Run the following command below to start 
-    running server:
+    Launch a server:
 
     $ python3 server.py
 
@@ -24,9 +24,7 @@ For running the project, you will need to have two computers one for server and 
 - Creating clients:
 
     Now we are going to need one clients, in order to see each other message on terminal.
-
-    If you are using Python 3.7.6 without `pyenv`, run the following command in two different
-    terminals/bashes in order to create our client and exchange messages between server and client.
+    Run a client
 
     $ python3 client.py
 
