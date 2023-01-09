@@ -1,0 +1,30 @@
+# Simple Socket Chat
+
+Simple chat project, exchanging messages between server and one client. Written in Python using sockets and threading.
+
+## Requirements
+
+In order to run the project, you'll need to have Python 3.7.6 or greater.
+This server and client can only be set up on a local area network.
+
+## Running the project
+
+For running the project, you will need to have two computers one for server and one for client.
+
+- Creating the server:
+    If you are using Python 3.7.6, Run the following command below to start 
+    running server:
+    ```bash
+    $ python3 server.py
+    ```
+
+
+- Creating clients:
+
+    Now we are going to need one clients, in order to see each other message on terminal.
+
+    If you are using Python 3.7.6 without `pyenv`, run the following command in two different
+    terminals/bashes in order to create our client and exchange messages between server and client.
+    ```bash
+    $ python3 client.py
+    ```
