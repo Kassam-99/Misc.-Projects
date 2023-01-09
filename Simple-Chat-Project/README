@@ -1,6 +1,8 @@
 # Simple Socket Chat
 
-Simple chat project, exchanging messages between server and one client. Written in Python using sockets and threading.
+ - Simple chat project, exchanging messages between server and one client. 
+ - Written in Python.
+ - The code uses the concept of sockets and threading.
 
 ## Requirements
 
